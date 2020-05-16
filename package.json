@@ -1,0 +1,13 @@
+{
+    "name": "transchannel-classroom-client",
+    "version": "0.0.1",
+    "description": "TransChannel教室桌面客户端",
+    "homepage": "http://transchannel.net",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TransChannel/TransChannel-classroom-client.git"
+    },
+    "bugs": {
+        "url": "https://github.com/TransChannel/TransChannel-classroom-client/issues"
+    }
+}
